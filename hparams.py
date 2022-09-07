@@ -1,4 +1,4 @@
-from tensorflow.contrib.training import HParams
+from tensor2tensor.utils.hparam import HParams
 from glob import glob
 import os
 
